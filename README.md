@@ -36,6 +36,7 @@ _[Arduino IDE Download](https://www.arduino.cc/en/software/)_
    ![img](assets/ss5.png)
    
    Kemudian pilih ai-thinker-0.9.5.2-115200.bin
+   
    ![img](assets/ss6.png)
 8. Selanjutnya kembali ke tab Operation dan klik <b>Flash</b> dan tunggu hingga selesai
 
