@@ -49,14 +49,22 @@ _[Arduino IDE Download](https://www.arduino.cc/en/software/)_
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-![img](assets/ss8.png) 3. Selanjutnya klik tab Tools -> Board -> Board Manager
+![img](assets/ss8.png) 
+3. Selanjutnya klik tab Tools -> Board -> Board Manager
+
 ![img](assets/ss9.png)
+
 lalu cari <b>esp8266</b> akan muncul <b>esp8266 by ESP8266 Community</b> lalu klik install dan tunggu sampai selesai
-![img](assets/ss10.png) 3. Selanjutnya pada tampilan awal Arduino IDE Klik <b>Select Board</b> kemudian pilih Port sesuai dengan port yang terlihat di Device Manager
+![img](assets/ss10.png) 
+4. Selanjutnya pada tampilan awal Arduino IDE Klik <b>Select Board</b> kemudian pilih Port sesuai dengan port yang terlihat di Device Manager
+
 ![img](assets/ss11.png)
+
 setelah itu cari NodeMCU dan pilih <b>NodeMCU 1.0 (ESP-12E Module)</b> lalu klik ok
 
-![img](assets/ss12.png) 4. pastekan Kode ini ke Arduino IDE
+![img](assets/ss12.png) 
+
+5. pastekan Kode ini ke Arduino IDE
 
 ```cpp
 #include <ESP8266WiFi.h>
@@ -119,7 +127,7 @@ void loop() {
 
 ```
 
-5. selanjutnya tekan tombol arah panah ke kanan untuk upload dan tunggu hingga selesai, setelah upload selesai
+6. selanjutnya tekan tombol arah panah ke kanan untuk upload dan tunggu hingga selesai, setelah upload selesai
 
 ## RANGKAI ESP8266 DENGAN RELAY
 
