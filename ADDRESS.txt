@@ -1,0 +1,5 @@
+LINK DONLOAD 
+https://drive.google.com/u/0/uc?id=16x4yfyROJYkyMrDIRarX1Hib0Und7SU-&export=download
+
+LINK ARDUINO PREFERENCE
+Http://arduino.esp8266.com/stable/package_esp8266com_index.json
