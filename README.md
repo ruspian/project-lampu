@@ -2,10 +2,20 @@
 
 ## DOWNLOAD BAHAN
 
-Copy link github
+pastikan git sudah terinstal di Komputer / PC anda
+
+buka terminal atau gitbash 
 
 ```bash
-https://github.com/ruspian/project-lampu.git
+// masuk ke folder download
+cd Downloads
+
+// Paste Link berikut
+git clone https://github.com/ruspian/project-lampu.git
+
+// masuk ke folder project-lampu
+cd project-lampu
+explorer .
 ```
 
 Download aplikasi Arduino IDE
